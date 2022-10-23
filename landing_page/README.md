@@ -1,0 +1,1 @@
+This project icludes all files I will use to create a landing page for a gaming company
