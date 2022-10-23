@@ -1,0 +1,33 @@
+* {
+  background-color: #;
+  max-width: 500px;
+  text-align: center;
+  margin: auto;
+  font-family: 'Raleway', sans-serif;
+}
+.features {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+ul {
+  display: flex;
+  justify-content: flex-end;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 10px 0 10px 0;
+  text-decoration:none;
+}
+li {
+  margin: 10px;
+}
+.logo {
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding: 10px 0 10px 0;
+  margin: 10px;
+}
+.arma {
+  margin-top: 60px;
+}
